@@ -12,7 +12,7 @@ function App() {
     <Router>
                      {/*header top hidder*/}
                      <div>
-                     If you are able to run Node.js version 6 or newer, then you can use Nodemailer. There are no platform or 
+                    Papa papa If you are able to run Node.js version 6 or newer, then you can use Nodemailer. There are no platform or 
                      resource specific requirements. All public Nodemailer methods support both callbacks and Promises (if callback is omitted). 
                      You need to have at least Node v8.0.0 if you want to use async..await with Nodemailer.
                      </div>
